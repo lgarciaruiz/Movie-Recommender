@@ -2,8 +2,8 @@ import java.util.*;
 /**
  * Write a description of MovieRunnerSimilarRatings here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Leo Garcia
+ * @version v1
  */
 public class MovieRunnerSimilarRatings {
     
