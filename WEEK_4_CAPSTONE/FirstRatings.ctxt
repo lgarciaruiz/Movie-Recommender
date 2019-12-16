@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FirstRatings
+comment0.text=\n\ Write\ a\ description\ of\ FirstRatings\ here.\n\ \n\ @author\ Leonardo\ Garcia\ \n\ @version\ v1\n
+comment1.params=
+comment1.target=FirstRatings()
+comment2.params=filename
+comment2.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment3.params=filename
+comment3.target=java.util.ArrayList\ loadRaters(java.lang.String)
+comment4.params=
+comment4.target=void\ testLoadRaters()
+comment5.params=
+comment5.target=void\ testLoadMovies()
+numComments=6

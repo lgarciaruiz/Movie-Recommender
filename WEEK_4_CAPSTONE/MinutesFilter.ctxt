@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MinutesFilter
+comment0.text=\n\ Write\ a\ description\ of\ MinutesFilter\ here.\n\ \n\ @author\ Leonardo\ Garcia\ \n\ @version\ v1\n
+comment1.params=minMin\ maxMin
+comment1.target=MinutesFilter(int,\ int)
+comment2.params=id
+comment2.target=boolean\ satisfies(java.lang.String)
+numComments=3
